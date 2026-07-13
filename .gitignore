@@ -1,5 +1,4 @@
 # 环境变量
-.env
 
 # Python
 __pycache__/
@@ -17,5 +16,6 @@ env/
 .DS_Store
 
 # IDE
-.vscode/
 .idea/
+config.bat
+node_modules
